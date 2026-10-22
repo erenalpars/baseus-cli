@@ -1,0 +1,4 @@
+# Store text as LF in the repository; Git converts on checkout as configured.
+* text=auto
+*.py text diff=python
+*.md text diff=markdown
